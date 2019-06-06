@@ -1,0 +1,13 @@
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\xstudio.csprojResolveAssemblyReference.cache
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\MainWindow.baml
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\App.baml
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\MainWindow.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\App.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\xstudio_MarkupCompile.cache
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\xstudio.g.resources
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\xstudio.Properties.Resources.resources
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\xstudio.csproj.GenerateResource.Cache
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\bin\Release\xstudio.exe
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\bin\Release\xstudio.pdb
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\xstudio.exe
+C:\Users\root\documents\visual studio 2013\Projects\xstudio\xstudio\obj\Release\xstudio.pdb

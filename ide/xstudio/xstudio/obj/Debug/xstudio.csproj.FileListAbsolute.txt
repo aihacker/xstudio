@@ -1,0 +1,26 @@
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\bin\Debug\xstudio.exe
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\bin\Debug\xstudio.pdb
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\xstudio.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\MainWindow.baml
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\App.baml
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\MainWindow.g.cs
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\App.g.cs
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\xstudio_MarkupCompile.cache
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\xstudio.g.resources
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\xstudio.Properties.Resources.resources
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\xstudio.csproj.GenerateResource.Cache
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\xstudio.exe
+C:\Users\root\Documents\Visual Studio 2013\Projects\xstudio\xstudio\obj\Debug\xstudio.pdb
+C:\git\xstudio\ide\xstudio\xstudio\bin\Debug\xstudio.exe.config
+C:\git\xstudio\ide\xstudio\xstudio\bin\Debug\xstudio.exe
+C:\git\xstudio\ide\xstudio\xstudio\bin\Debug\xstudio.pdb
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\MainWindow.baml
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\App.baml
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\MainWindow.g.cs
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\App.g.cs
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\xstudio_MarkupCompile.cache
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\xstudio.g.resources
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\xstudio.Properties.Resources.resources
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\xstudio.csproj.GenerateResource.Cache
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\xstudio.exe
+C:\git\xstudio\ide\xstudio\xstudio\obj\Debug\xstudio.pdb
